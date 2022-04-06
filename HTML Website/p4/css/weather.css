@@ -1,0 +1,75 @@
+body {
+   font-family: Helvetica, sans-serif;
+   color: #555;
+   background-color: lightskyblue;
+}
+
+.dark-mode {
+    background-color: darkblue;
+    color: white;
+}
+
+#weather-input div {
+   padding-bottom: 8px;
+}
+
+.hidden {
+   display: none;
+}
+
+.error-msg {
+   color: red;
+}
+
+table {
+   margin-bottom: 15px;
+}
+
+table caption {
+   font-weight: bold;
+}
+
+table td {
+   text-align: center;
+   padding: 3px 8px;
+}
+
+input {
+    border-color: black;
+}
+
+button {
+    background-color: dodgerblue;
+    color: white;
+    border:none;
+    text-align: center;
+    padding: 10px 80px;
+    cursor:pointer;
+}
+
+#compareBtn:hover {
+    background-color:blue;
+}
+
+h1 {
+    text-align: center;
+}
+
+#mainidea {
+    text-align: center;
+}
+
+img {
+    width: 50px;
+}
+
+#center {
+    display:block;
+    padding-bottom: 10pt;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#centerpara {
+    text-align: center;
+}

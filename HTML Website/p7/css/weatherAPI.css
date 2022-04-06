@@ -1,0 +1,79 @@
+:root {
+    --headerFooterColor: #aeb3c2;
+    --borderColor: #0b26bf;
+}
+
+html{
+    background-color:RGB(73,183,232);
+}
+
+#header{
+    position:relative;
+    top:auto;
+    width:auto;
+    text-align: center;
+    font-weight: bolder;
+    background-color:var(--headerFooterColor);
+    color:black;
+    font-size: 30px;
+    padding: 16px 32px;
+    border: 9px double var(--borderColor);
+}
+
+#footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    left:0;
+    font-weight:bolder;
+    background-color:var(--headerFooterColor);
+    color:black;
+    padding: 16px 32px;
+    border: 6px double var(--borderColor);
+}
+
+.main_container{
+    display:flex;
+    padding 20px;
+    width:auto;
+}
+
+.child_container{
+    padding: 20px;
+    width:50%;  
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+#button{
+  background-color: darkblue;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#button:hover {
+    background-color:blue;
+}
+
+input{
+    padding: 5px;
+}
+
+#form{
+    border: solid gray 3px;
+    width: 20%;
+    border-radius: 5px;
+    margin: 100px auto;
+    background: white;
+}
