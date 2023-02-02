@@ -192,3 +192,6 @@ This project will be run by Java and its libraries. As an object Oriented enviro
 3. if no items are displayed it might be a filepath issue add items via the admin account.
 4. nick 12345 is a customer account, register function also works to create a new customer account.
 5. everything in the gui is intuitive and clearly labeled. 
+
+# YouTube Video Link
+Here is a link to a demo of the project: https://youtu.be/DdPOjYu1bJw

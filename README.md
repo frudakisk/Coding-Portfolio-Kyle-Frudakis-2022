@@ -10,13 +10,13 @@ Side Project/alien_invasion (Summer 2018)
 This project was something I took on by myself before entering college. I am very proud of it and it actually helped me better understand
 the classes I would be taking my freshman year of college. Using python, I learned very basic database structures and when going into university,
 we had to learn C++, which was easier for me because I already have a knowledge of some of the common topics. This game is basically my version
-of Space Invaders, which is a classic arcade game.
+of Space Invaders, which is a classic arcade game. This .exe file is only accessible on Windows.
 
 
 Side Project/Escape_Room (Fall 2018)
 This was my first project in C++. While I have many other class assignments in C++, I felt like this one was a nice one to add to my portfolio
 as it expresses one of my many interest in programming. This program is a mini game that is filled with puzzles and some riddles. It is not perfect, as there are some ways to break the game. When I find the time, I can easily fix some of the issues. As of now, it is not very important
-to me to fix them.
+to me to fix them. This .exe file is only accessible on Windows.
 
 
 Logic and Design (Spring 2019)
